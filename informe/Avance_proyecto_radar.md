@@ -451,7 +451,7 @@ El trabajo futuro se concentra en ampliar la serie NISAR D083 hasta disponer de 
 
 ## Disponibilidad de datos y código
 
-Los scripts de las nueve etapas y de la polarimetría dual-pol, los resultados tabulados y las figuras del informe están en el repositorio público https://github.com/linaq11/cgsm-radar-banda-L, bajo licencia MIT. Las escenas NISAR, las series del IDEAM y del mareógrafo y los productos de Earth Engine se obtienen de sus fuentes con los scripts de la etapa 1; la muestra de referencia de 2025 es un producto propio en elaboración y no se distribuye con el informe.
+Los scripts de las nueve etapas y de la polarimetría dual-pol, los resultados tabulados y las figuras del informe están en el repositorio público https://github.com/linaq11/CGSM-radar-banda-L, bajo licencia MIT. Las escenas NISAR, las series del IDEAM y del mareógrafo y los productos de Earth Engine se obtienen de sus fuentes con los scripts de la etapa 1; la muestra de referencia de 2025 es un producto propio en elaboración y no se distribuye con el informe.
 
 ## Referencias
 

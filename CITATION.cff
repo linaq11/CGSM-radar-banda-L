@@ -9,8 +9,8 @@ authors:
 type: software
 license: MIT
 doi: "10.5281/zenodo.23709974"
-repository-code: "https://github.com/linaq11/cgsm-radar-banda-L"
-url: "https://github.com/linaq11/cgsm-radar-banda-L"
+repository-code: "https://github.com/linaq11/CGSM-radar-banda-L"
+url: "https://github.com/linaq11/CGSM-radar-banda-L"
 date-released: "2026-10-27"
 keywords:
   - NISAR

@@ -98,7 +98,7 @@ El repositorio contiene los scripts, los resultados tabulados y las figuras nece
 
 ## Cómo citar
 
-Quintero Fonseca, L. M. (2026). *Respuesta de la banda L a la inundación bajo dosel de manglar: comparación con banda C en la Ciénaga Grande de Santa Marta y Bahía de Málaga* [Informe de avance, curso Radar and LiDAR Remote Sensing]. Universidad Nacional de Colombia. https://github.com/linaq11/cgsm-radar-banda-L
+Quintero Fonseca, L. M. (2026). *Respuesta de la banda L a la inundación bajo dosel de manglar: comparación con banda C en la Ciénaga Grande de Santa Marta y Bahía de Málaga* [Informe de avance, curso Radar and LiDAR Remote Sensing]. Universidad Nacional de Colombia. https://github.com/linaq11/CGSM-radar-banda-L
 
 ## Licencia
 

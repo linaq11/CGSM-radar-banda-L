@@ -383,7 +383,7 @@ Future work focuses on extending the NISAR D083 series until high and low river 
 
 ## Data and code availability
 
-The scripts for the nine stages, the tabulated results and the report figures are available in the public repository https://github.com/linaq11/cgsm-radar-banda-L, under the MIT licence. The NISAR scenes, the IDEAM and tide gauge series and the Earth Engine products are obtained from their sources with the stage 1 scripts. The 2025 reference sample is an in-house product still under development and is not distributed with the report.
+The scripts for the nine stages, the tabulated results and the report figures are available in the public repository https://github.com/linaq11/CGSM-radar-banda-L, under the MIT licence. The NISAR scenes, the IDEAM and tide gauge series and the Earth Engine products are obtained from their sources with the stage 1 scripts. The 2025 reference sample is an in-house product still under development and is not distributed with the report.
 
 ## References
 
